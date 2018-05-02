@@ -1,0 +1,13 @@
+{
+  "name": "web-apis",
+  "version": "0.0.0",
+  "description": "WebAPIs",
+  "main": "server.js",
+  "author": {
+    "name": "huang"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.15.0"
+  }
+}
